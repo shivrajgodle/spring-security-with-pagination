@@ -18,7 +18,7 @@ import java.util.Set;
 @NoArgsConstructor
 public class StudentDto {
 
-    private Integer id;
+    private Integer studentId;
 
 
     private String name;
